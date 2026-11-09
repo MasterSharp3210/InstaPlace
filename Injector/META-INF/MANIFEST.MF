@@ -1,0 +1,2 @@
+Main-Class: Main
+Class-Path: lib/jna-5.13.0.jar lib/jna-platform-5.13.0.jar
